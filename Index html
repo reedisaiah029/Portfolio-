@@ -1,2 +1,18 @@
 <!doctype html>
+</html lang="en">
+<head>
+  <meta charset="utf-8"
+  <title> My Portfoilo</title>
+</head>
+<body>
+  <h1>My Portfoilo<h1>
+  <p>Im learning web development.</p>
+  <h2>My Interest</h2>
+<ol>
+   <li>Content creation</li>
+   <li>Gaming</li>
+   <li>Minecraft</li>
+</ol>
+
+</body>
 </html>
